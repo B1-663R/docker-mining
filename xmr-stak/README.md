@@ -4,7 +4,11 @@
 
 ### Test POW 
 
-`# docker build -f Dockerfile-pow -t docker-mining/xmr-stak:pow .`
+~~~~
+$ cd xmr-stak/pow/
+# docker build -f Dockerfile -t docker-mining/xmr-stak:pow .
+~~~~
+
 
 
 ### How to start
