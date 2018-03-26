@@ -14,7 +14,7 @@ README.md on each folder
 
 - [NVIDIA Drivers](http://www.nvidia.ca/object/unix.html)
 - [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker)
-- Linux Distro
+- Linux rig (ubuntu server)
 
 Note: CUDA Toolkit and other files are included on each miner docker image
 
